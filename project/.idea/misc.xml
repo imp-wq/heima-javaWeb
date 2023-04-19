@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/1SpringMVC/01_quick_start" />
+    <file type="web" url="file://$PROJECT_DIR$/1SpringMVC/02_bean_load" />
+<<<<<<< HEAD
+    <file type="web" url="file://$PROJECT_DIR$/1SpringMVC/SpringMVC-03_request_paramaters" />
+=======
+    <file type="web" url="file://$PROJECT_DIR$/1SpringMVC/springmvc_03_rest_case" />
+    <file type="web" url="file://$PROJECT_DIR$/1SpringMVC/springmvc_04_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/1SpringMVC/springmvc_05_ssm-case" />
+>>>>>>> 5c642aead196bad257d274ea4887862f617f3e32
+    <file type="web" url="file://$PROJECT_DIR$/brand-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-1-bean" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-2-bean_life_cycle" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring-3-autowired" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/brand-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Filter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-2-bean_life_cycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-3-autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-4-collection/pom.xml" />
+        <option value="$PROJECT_DIR$/Sprint-5-manageDruid/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-6-annotation_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-7-Spring_and_MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-8-dynamic_proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-9-AOP_primary/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-10-spring_transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/SpringMVC-01_quick_start/pom.xml" />
+        <option value="$PROJECT_DIR$/1SpringMVC/02_bean_load/pom.xml" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/1SpringMVC/SpringMVC-03_request_paramaters/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/../../SSM资料/01-spring/day03/代码/spring/springmvc_03_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/1SpringMVC/springmvc_03_rest_case/pom.xml" />
+        <option value="$PROJECT_DIR$/1SpringMVC/springmvc_04_ssm/springmvc_04_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/1SpringMVC/springmvc_05_ssm-case/pom.xml" />
+>>>>>>> 5c642aead196bad257d274ea4887862f617f3e32
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
